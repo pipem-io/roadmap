@@ -4,8 +4,8 @@
 
 Here is the list of providers that are currently supported by Pipem or in develop.
 
-- ✅ [Google Cloud Platform](https://github.com/pipem-io/provider-google)
-- ✅ [GitHub](https://github.com/pipem-io/provider-github)
+- ✅ [GitHub](https://github.com/pipem-io/provider-github) (released on 1 Dec 2022)
+- ✅ [Google Cloud Platform](https://github.com/pipem-io/provider-google) (released on 6 Dec 2022)
 
 In develop:
 
