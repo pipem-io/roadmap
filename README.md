@@ -8,10 +8,10 @@ Here is the list of providers that are currently supported by Pipem or in develo
 - ✅ [Google Cloud](https://github.com/pipem-io/provider-google) (released on 6 Dec 2022)
 - ✅ [GitLab](https://github.com/pipem-io/provider-gitlab) (released on 9 Dec 2022)
 - ✅ [Azure](https://github.com/pipem-io/provider-azure) - (released on 24 Dec 2022)
+- ✅ [AWS](https://github.com/pipem-io/provider-aws) (Amazon Web Services) - (released on 1 Feb 2023)
 
 In developing:
 
-- ⏳ AWS (Amazon Web Services)
 - ⏳ BitBucket
 - ⏳ Jenkins
 - ⏳ Buddy.works
