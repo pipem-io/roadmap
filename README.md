@@ -20,6 +20,7 @@ In developing:
 - ⏳ Bitrise
 - ⏳ TravisCI
 - ⏳ Heroku
+- ⏳ Cloudflare
 
 ℹ️ If you buy a license you can have a priority on the development of the provider you need.
 
